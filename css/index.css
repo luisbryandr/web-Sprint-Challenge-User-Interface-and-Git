@@ -70,6 +70,7 @@ p {
     display: flex
 }
 
+
 img.header, nav.header{
     justify-content: space-between;
 }
