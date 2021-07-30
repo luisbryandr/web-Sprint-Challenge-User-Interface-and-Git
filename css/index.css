@@ -66,6 +66,16 @@ p {
     line-height: 1.4;
 }
 
+.header{
+    display: flex
+}
+
+img.header, nav.header{
+    justify-content: space-between;
+}
+
+
+
 .container {
     width: 800px;
     margin: 0 auto;
