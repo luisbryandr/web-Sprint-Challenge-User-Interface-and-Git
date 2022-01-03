@@ -66,6 +66,17 @@ p {
     line-height: 1.4;
 }
 
+.header{
+    display: flex
+}
+
+
+img.header, nav.header{
+    justify-content: space-between;
+}
+
+
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -100,6 +111,7 @@ p {
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
 
 .middle-content .boxes .box {
     width: 12.5%;
